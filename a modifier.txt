@@ -1,0 +1,9 @@
+
+
+ajout des fichiers
+
+hasard_ban.c k
+coup_joueur.c k
+coup_ordi_hasard.c k
+coup_ordi_gagnant.c 
+jeu.c
